@@ -23,4 +23,3 @@ class Service():
     # Test this
     def complicated_function(self, x):
         return self.divide(x), self.bad_random() % 2
-

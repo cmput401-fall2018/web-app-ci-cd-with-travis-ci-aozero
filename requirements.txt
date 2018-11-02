@@ -1,9 +1,15 @@
-heat-cfntools==1.4.2
+boto==2.49.0
 Django==2.1.1
 django-filter==2.0.0
+django-filters==0.2.1
 djangorestframework==3.8.2
 djangorestframework-jsonapi==2.6.0
+heat-cfntools==1.4.2
 inflection==0.3.1
+mock==2.0.0
+pbr==0.11.1
+psutil==1.2.1
 pytz==2018.5
+selenium==3.141.0
 six==1.11.0
-djangorestframework-jsonapi==2.6.0
+urllib3==1.24
