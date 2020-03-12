@@ -8,7 +8,7 @@ heat-cfntools==1.4.2
 inflection==0.3.1
 mock==2.0.0
 pbr==0.11.1
-psutil==1.2.1
+psutil==5.6.6
 pytz==2018.5
 selenium==3.141.0
 six==1.11.0
